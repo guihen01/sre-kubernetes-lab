@@ -13,7 +13,7 @@ spec:
   maxReplicas: 10
   
     behavior:
-    scaleDown:
+      scaleDown:
       stabilizationWindowSeconds: 30
             
       policies:
