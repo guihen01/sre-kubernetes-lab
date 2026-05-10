@@ -6,7 +6,6 @@ Production-style Kubernetes SRE lab built with:
 - ArgoCD
 - Prometheus
 - Grafana
-- Loki
 - Promtail
 - ingress-nginx
 - HPA
@@ -16,7 +15,6 @@ Production-style Kubernetes SRE lab built with:
 
 - GitOps Continuous Delivery
 - Monitoring & Alerting
-- Centralized Logging
 - Autoscaling
 - Production-grade Kubernetes manifests
 - Incident simulations
@@ -27,7 +25,6 @@ Production-style Kubernetes SRE lab built with:
 - Local Kubernetes cluster using k3d
 - ingress-nginx ingress controller
 - Prometheus + Grafana monitoring
-- Loki centralized logging
 - ArgoCD GitOps deployment
 - HPA autoscaling
 
@@ -49,8 +46,8 @@ Production-style Kubernetes SRE lab built with:
 - ArgoCD
 - Prometheus
 - Grafana
-- Loki
 - k6
+- k9
 
 ## Screenshots
 
